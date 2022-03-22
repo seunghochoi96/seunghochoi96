@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seungho Choi.
+- 👋 Hi, I’m Seongho Choi.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning how to use modeling in ML/DL.
 - 📫 How to reach me send e-mail to zndfk@naver.com
